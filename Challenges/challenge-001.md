@@ -47,3 +47,8 @@
 - https://www.linkedin.com/company/bluelotus-corp
 
 > Challenge is **open**
+
+## Where to send answer:
+- clone this `repo`
+- push your answer into `https://github.com/blue-lotus-org/code-challenge/tree/main/completed`
+- merge request, comment : "**Lotus001**"
