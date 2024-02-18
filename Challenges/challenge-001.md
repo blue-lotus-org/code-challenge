@@ -35,6 +35,7 @@
 - Branches chart
 - Table of details
 - save functionality for `.txt` and `.csv`
+- Show the complexity of your algorithm
 
 > You can extend functionality as you want. Output can be creative, but with same task.
 
