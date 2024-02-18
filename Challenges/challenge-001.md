@@ -42,3 +42,8 @@
 - First place 1000 usdc
 - Second place 500 usdc
 - Third place 500 usdc
+
+## Any questions from:
+- https://www.linkedin.com/company/bluelotus-corp
+
+> Challenge is **open**
