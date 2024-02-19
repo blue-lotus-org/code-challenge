@@ -52,6 +52,6 @@
 ## Where to send answer:
 - clone this `repo`
 - push your answer into `https://github.com/blue-lotus-org/code-challenge/tree/main/completed`
-- merge request, comment : "**Lotus001**"
+- pull request, comment : "**Lotus001**"
 
 ![example branches](https://github.com/blue-lotus-org/code-challenge/blob/challenge/src/branch.png)
